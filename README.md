@@ -4,7 +4,7 @@ LEND,PAYMENT,LEDGER,ACCOUNT OVERVIEW API completed
 
 
 Additional functionality i would like to add
-1.Details of diiferenet types loans that are available will be provided through one API (it should contain a unique key for each loan type).
+1.Details of diiferenet types loans that are available will be provided through one API (it should contain a unique key for each loan type).\n
 so if we wants to apply for a loan no need to mention rate of intrest just add unique key of that loan to the request.
 
 steps to be followed to excute the program
